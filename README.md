@@ -64,7 +64,7 @@ Despues de desarrollar tu aporte hacer un pull request a la rama development de 
 
 ## Documentación / Links utiles
 
-- [Trello]()
+- [Trello](https://trello.com/b/9SG7jwNc/tablero-confpage)
 - [Slack]()
 - [Deploy]()
 
