@@ -70,10 +70,7 @@ Despues de desarrollar tu aporte hacer un pull request a la rama development de 
 
 ### Tutoriales
 
-- [Como hacer un pull request]()
-- [Como forkear el repositorio]()
-- [Como instalar dependencias]()
-- [Como usar Git]()
-- [Como usar variables de entorno]()
-- [Que dependencias instalar]()
-- [Como documentar codigo]()
+- [Comandos importantes GIT](https://docs.google.com/document/d/e/2PACX-1vQD4q9Pl60XjAV_tjyMt2QyM2i3skFlqB0jHF5HGX6Nslv3wz9zu-nSODAHZRlmRVcWoN4IIY3pdi2p/pub)
+- [Como forkear el repositorio](https://docs.google.com/document/u/3/d/e/2PACX-1vSEfhVfeFp4cyuO2iWYgtpnLK2hneG7poOL6W3q9KxwMzHY1KjXb0AZtSA_6E7J8trK3kMqpQKaAOvT/pub)
+- [Como hacer un pull request](https://docs.google.com/document/u/3/d/e/2PACX-1vR9xZAUXy_FzQUMoEWo18w_TUbeH-hnzodRiAMz3UGaiBpBWIebDF3Sv4ahpWjl_2x8NJmW2BB3u9Jj/pub)
+- [Como y cuales dependencias instalar](https://docs.google.com/document/d/e/2PACX-1vSfDiGe9AxS72CMSh9skjrhCdXUUS9hthGWz75CALlA_t5S8ihIfCbD2f0psrO-g0AInhEZiYflwwkU/pub)
